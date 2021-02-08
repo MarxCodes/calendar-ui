@@ -1,0 +1,9 @@
+:host {
+  display: grid;
+  grid: repeat(5, 1fr) / repeat(7, 1fr);
+  height: 500px;
+  width: 100%;
+  background-color: chocolate;
+}
+
+
