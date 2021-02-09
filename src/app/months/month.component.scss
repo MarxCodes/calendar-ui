@@ -1,0 +1,9 @@
+:host {
+  display: grid;
+  grid: repeat(4, 1fr) / repeat(3, 1fr);
+  background-color: blue;
+  height: 300px;
+  width: 400px;
+  justify-items: center;
+  align-items: center;
+}
